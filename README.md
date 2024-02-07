@@ -5,5 +5,5 @@ Github Actions の学習用リポジトリです。
 # 参考
 1. [GitHub Actions を理解する - GitHub Docs](https://docs.github.com/ja/actions/learn-github-actions/understanding-github-actions)
 
-2. [](https://dev.classmethod.jp/articles/using-nodejs-v20-in-github-actions-runtime/)
+2. [GitHub Actions の実行ランタイムで Node.js v20 を使うようにする | DevelopersIO](https://dev.classmethod.jp/articles/using-nodejs-v20-in-github-actions-runtime/)\
 node.jsのバージョンを14から20に変更する際に参照した

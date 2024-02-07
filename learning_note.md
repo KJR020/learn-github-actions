@@ -24,7 +24,7 @@
 
 ### ワークフローファイル
 - name : GitHubのリポジトリに表示されるワークフロー名
-- run-name : 
+- run-name : ワークフローの実行に対する識別子
 - on :　ワークフローのタイミング
 - check-bats-version : jobの名前
 - runs-on : ランナー,実行環境
